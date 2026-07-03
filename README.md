@@ -13,4 +13,4 @@ The goal is simple: give people an AI **foundation they own and grow** — not f
 
 > *Scale your AI organically.*
 
-[agix-ai.io](https://agix-ai.io) · blewis@agix-ai.io · Berthoud, CO
+[agix-ai.io](https://agix-ai.io) · blewis@agix-ai.io · Boulder, CO
